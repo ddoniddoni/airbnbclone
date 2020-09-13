@@ -20,8 +20,8 @@
   flex: 1;
   align-items: center;
   max-width: fit-content;
-  height: 30px;
   padding: 10px;
+  height: 30px;
   border: 1px solid lightgray;
   border-radius: 999px;
 }
